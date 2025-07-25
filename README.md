@@ -6,7 +6,7 @@ Just Another Form Builder test application
 
 - [ ] Users can create a new form
 - [ ] Users can update an existing form
-   - [ ] Users can delete forms if they have admin, contributor, or owner permissions
+   - [ ] Users can update forms if they have admin, contributor, or owner permissions
 - [ ] Users can delete an existing form
    - [ ] Users cannot delete forms that do not beelong to them
    - [ ] Users can delete forms if they have admin, contributor, or owner permissions
